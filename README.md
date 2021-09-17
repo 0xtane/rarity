@@ -17,8 +17,12 @@ deployed contracts (Fantom chain):
     <td>0x946078c3f2417B18a0aA17d7981167c13e4098E9</td>
   </tr>
   <tr>
-    <td>Bazaar listings query</td>
+    <td>All listings for a gem query</td>
     <td>0x54B29Cf9Dd92BD37a4C866fA7bd5E0EB68EE7969</td>
+  </tr>
+  <tr>
+    <td>All C(I) listings for an address query</td>
+    <td>0x03dAD1aB07be1AC43a86B6F61F0B1E8cACc43D85</td>
   </tr>
   <tr>
     <td>Wrapped Rarity Gold</td>
